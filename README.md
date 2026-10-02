@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martim</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate developer from Portugal</h3>
 
 - 🔭 I’m currently working on [Owell](https://github.com/MartimHenriques/Owell)
 
