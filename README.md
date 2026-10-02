@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martim</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Owell](https://github.com/MartimHenriques/Owell)
-
-- 🌱 I’m currently learning **.Net**
-
-- 📫 How to reach me **martimhenriques.tino@gmail.com**
+- 🔭 I’m currently working on [Owell](https://github.com/MartimHenriques/Owell), learning and practicing **.Net** and **C#**. A app to simplify debts between groups.
+- 📫 Reach me through **martimhenriques.tino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
